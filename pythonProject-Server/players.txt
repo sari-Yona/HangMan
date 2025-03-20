@@ -1,0 +1,9 @@
+name:Sari,Id:214918120,password:sari100375,gamesNum:15,words:{cup english dog run drink story lump help student take blue word book},win:11
+name:Chaya,Id:123489887,password:ch123,gamesNum:7,words:{lump help run},win:4
+name:Esty,Id:112233445,password:e100,gamesNum:3,words:{computer word school},win:3
+name:Mali,Id:064974223,password:m375,gamesNum:2,words:{word code},win:2
+name:Malky,Id:039999529,password:m8008,gamesNum:1,words:{drink},win:1
+name:Nechama,Id:45887745,password:nn45,gamesNum:3,words:{mouse lump cat},win:3
+name:Yehudit,Id:21456698,password:y9,gamesNum:1,words:{run},win:1
+name:Michal,Id:039999529,password:m1234,gamesNum:0,words:{},win:0
+name:Tova,Id:214918120,password:t4444,gamesNum:0,words:{},win:0
